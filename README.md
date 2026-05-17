@@ -1,8 +1,9 @@
 <div align="center">
-    <h1>Hi, I'm Bartosz!</h1>
+    <h1>Hi, I'm Ezik</h1>
   <p><b>Cybersecurity Specialist | Blue Team & SOC Analyst | Python & C Developer</b></p>
   
-<img width="8000" height="4563" alt="neon-gaming-background (1)" src="https://github.com/user-attachments/assets/34794ccb-8454-4e6a-be79-b45d0ac4b3cc" />
+<img width="3111" height="1116" alt="tlo" src="https://github.com/user-attachments/assets/d8983d30-e755-40d4-b978-52b9f77dbb27" />
+
   
   <p>
     <a href="https://www.linkedin.com/in/bartosz-%C5%BCurawski003/">LinkedIn</a> • 
