@@ -8,6 +8,7 @@
 
   <a href="https://www.linkedin.com/in/bartosz-%C5%B3urawski003/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-E0B0FF?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" /></a><a href="https://tryhackme.com/p/Ezik" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-9D4EDD?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a><a href="mailto:bartoszzurawski.03@gmail.com"><img src="https://img.shields.io/badge/Email-5A189A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
+
 ## About
 
 - Focused on **Blue Team operations**, threat detection, incident response, and SOC workflows.
