@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Ezik</h1>
+  <h1>Hi, I'm Bartosz</h1>
   <h3>Cybersecurity Specialist | Blue Team & SOC Analyst | Python & C Developer</h3>
 
 <img width="100%" alt="tlo" src="https://github.com/user-attachments/assets/d8983d30-e755-40d4-b978-52b9f77dbb27" />
